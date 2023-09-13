@@ -24,8 +24,6 @@ _really you can use whatever you like the most_
 
 #### File-based Routing: check out the [elysia-autoroutes branch](https://github.com/ethanniser/the-beth-stack/tree/file-based-routing)
 
-### VIEW THE LIVE DEMO AT [the-beth-stack.fly.dev](https://the-beth-stack.fly.dev/)
-
 ## EACH STEP IN THE TUTORIAL IS [A BRANCH IN THIS REPO](https://github.com/ethanniser/the-beth-stack/branches)
 
 ### SO YOU CAN SEE THE CODE AT EACH STEP
