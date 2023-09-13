@@ -20,12 +20,6 @@ Also: [typed-html](https://github.com/nicojs/typed-html), [tailwind-css](https:/
 
 _really you can use whatever you like the most_
 
-### ADDITIONAL STYLING OPTIONS:
-
-#### File-based Routing: check out the [elysia-autoroutes branch](https://github.com/ethanniser/the-beth-stack/tree/file-based-routing)
-
-## EACH STEP IN THE TUTORIAL IS [A BRANCH IN THIS REPO](https://github.com/ethanniser/the-beth-stack/branches)
-
 ### SO YOU CAN SEE THE CODE AT EACH STEP
 
 # TO RUN LOCALLY
